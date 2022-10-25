@@ -5,7 +5,8 @@ ElectroPredictor is a noncommercial Python applicaction designed for predicting 
 It is recommended to run ElectroPredictor using a device with 12 or more usable cores for an improved performance.
 ### Software
 #### Python Libraries
-ElectroPredictor was tested within a Anaconda Environment and it is highly recommended to run it in that way for avoiding
+ElectroPredictor was tested within a Anaconda Environment https://www.anaconda.com/products/distribution
+and it is highly recommended to run it in that way for avoiding
 conflicts when importing the libraries.
   - OpenBabel and Pybel
   - Numpy
@@ -35,5 +36,7 @@ The test sets used for the model validation are also supplied in the **TestSets*
 - Stewart, J. J. P., Klamt, A., Thiel, W., Danovich, D., Rocha, G. B., Gieseking, R. L., Moussa, J. E., Kurtz, H. A., Korambath, P., Merz, K. M., Jr., & Wang, B. (2022). MOPAC (Version 22.0.4) [Computer software]. https://doi.org/10.5281/zenodo.6511958
 - O’Boyle, N. M., Banck, M., James, C. A., Morley, C., Vandermeersch, T., & Hutchison, G. R. (2011). Open Babel: An open chemical toolbox. Journal of Cheminformatics, 3(1), 33. https://doi.org/10.1186/1758-2946-3-33
 - Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, and Ian H. Witten (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations, Volume 11, Issue 1.
+- Anaconda | Anaconda Distribution. (n.d.). Anaconda. Retrieved October 13, 2022, from https://www.anaconda.com/products/distribution
+
 
 
