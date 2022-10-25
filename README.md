@@ -33,5 +33,7 @@ The test sets used for the model validation are also supplied in the **TestSets*
 - García-Jacas, C. R., Marrero-Ponce, Y., Vivas-Reyes, R., Suárez-Lezcano, J., Martinez-Rios, F., Terán, J. E., & Aguilera-Mendoza, L. (2020). Distributed and multicore QuBiLS-MIDAS software v2.0: Computing chiral, fuzzy, weighted and truncated geometrical molecular descriptors based on tensor algebra. Journal of Computational Chemistry, 41(12), 1209–1227. https://doi.org/10.1002/jcc.26167
 - Nina Jeliazkova. (2017). ideaconsult/appdomain: ambit-appdomain v2.0.0 (ambit_appdomain-2.0.0). Zenodo. https://doi.org/10.5281/zenodo.265119
 - Stewart, J. J. P., Klamt, A., Thiel, W., Danovich, D., Rocha, G. B., Gieseking, R. L., Moussa, J. E., Kurtz, H. A., Korambath, P., Merz, K. M., Jr., & Wang, B. (2022). MOPAC (Version 22.0.4) [Computer software]. https://doi.org/10.5281/zenodo.6511958
+- O’Boyle, N. M., Banck, M., James, C. A., Morley, C., Vandermeersch, T., & Hutchison, G. R. (2011). Open Babel: An open chemical toolbox. Journal of Cheminformatics, 3(1), 33. https://doi.org/10.1186/1758-2946-3-33
+- Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, and Ian H. Witten (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations, Volume 11, Issue 1.
 
 
