@@ -26,7 +26,7 @@ Both applications must be aded to the shell script of the operating system to fr
 4. The .csv with the results will be created at the **Results** folder.
 ## Additional information
 The test sets used for the model validation are also supplied in the **TestSets** folder.
-## Sources
+## References
 - García-Jacas, C. R., Marrero-Ponce, Y., Vivas-Reyes, R., Suárez-Lezcano, J., Martinez-Rios, F., Terán, J. E., & Aguilera-Mendoza, L. (2020). Distributed and multicore QuBiLS-MIDAS software v2.0: Computing chiral, fuzzy, weighted and truncated geometrical molecular descriptors based on tensor algebra. Journal of Computational Chemistry, 41(12), 1209–1227. https://doi.org/10.1002/jcc.26167
 - Nina Jeliazkova. (2017). ideaconsult/appdomain: ambit-appdomain v2.0.0 (ambit_appdomain-2.0.0). Zenodo. https://doi.org/10.5281/zenodo.265119
 - Stewart, J. J. P., Klamt, A., Thiel, W., Danovich, D., Rocha, G. B., Gieseking, R. L., Moussa, J. E., Kurtz, H. A., Korambath, P., Merz, K. M., Jr., & Wang, B. (2022). MOPAC (Version 22.0.4) [Computer software]. https://doi.org/10.5281/zenodo.6511958
