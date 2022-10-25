@@ -5,16 +5,16 @@ ElectroPredictor is a noncommercial Python applicaction designed for predicting 
 It is recommended to run ElectroPredictor using a device with 12 or more usable cores for an improved performance.
 ### Software
 #### Python Libraries
+ElectroPredictor was tested within a Anaconda Environment and it is highly recommended to run it in that way for avoiding
+conflicts when importing the libraries.
   - OpenBabel and Pybel
   - Numpy
   - Pandas
   - python-weka-wrapper3
-ElectroPredictor was tested within a Anaconda Environment and it is highly recommended to run it in that way for avoiding
-conflicts when importing the libraries.
 ### Applications
+Both applications must be aded to the shell script of the operating system to freely execute them as commands in the terminal.
   - OpenJDK
   - MOPAC 22.0.4 
-Both applications must be aded to the shell script of the operating system to freely execute them as commands in the terminal.
 ## How to set up ElectroPredictor?
 1. Clone the repository files or download them as a zip file.
 2. Extract ToMoCoMD QuBiLs-MIDAS Command Line Interface files in ToMoCoMD folder, but DO NOT replace headings.txt or the tomocomd_qubils.in. They are already configured to run ElectroPredictor in the most efficient way. DO NOT CHANGE THE FILES OR THE APPLICATION WILL NOT WORK. You can download the files for ToMoCoMD QuBiLs-MIDAS Command Line Interface (CLI) at: http://tomocomd.com/software/qubils-midas
