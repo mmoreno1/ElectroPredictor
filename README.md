@@ -11,7 +11,7 @@ conflicts when importing the libraries.
   - Numpy
   - Pandas
   - python-weka-wrapper3
-### Applications
+#### Applications
 Both applications must be aded to the shell script of the operating system to freely execute them as commands in the terminal.
   - OpenJDK
   - MOPAC 22.0.4 
