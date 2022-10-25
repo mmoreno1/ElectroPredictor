@@ -17,7 +17,7 @@ Both applications must be aded to the shell script of the operating system to fr
   - MOPAC 22.0.4 
 ## How to set up ElectroPredictor?
 1. Clone the repository files or download them as a zip file.
-2. Extract ToMoCoMD QuBiLs-MIDAS Command Line Interface files in **ToMoCoMD** folder, but DO NOT replace headings.txt or the tomocomd_qubils.in. They are already configured to run ElectroPredictor in the most efficient way. DO NOT CHANGE THE FILES OR THE APPLICATION WILL NOT WORK. You can download the files for ToMoCoMD QuBiLs-MIDAS Command Line Interface (CLI) at: http://tomocomd.com/software/qubils-midas
+2. Extract ToMoCoMD QuBiLs-MIDAS Command Line Interface files in **ToMoCoMD** folder, but DO NOT replace **headings.txt** or the **tomocomd_qubils.in**. They are already configured to run ElectroPredictor in the most efficient way. DO NOT CHANGE THE FILES OR THE APPLICATION WILL NOT WORK. You can download the files for ToMoCoMD QuBiLs-MIDAS Command Line Interface (CLI) at: http://tomocomd.com/software/qubils-midas
 3. Now it is ready to use!
 ## How to use ElectroPredictor?
 1. Place an .sdf file in the main.py directory of ElectroPredictor. Make sure that the .sdf file is not empty.
